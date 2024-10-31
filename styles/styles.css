@@ -341,7 +341,7 @@ p {
 }
 
 #CounterStrike {
-  background: url(/Images/SOURCE.jpg) top left no-repeat fixed;
+  background: url(../Images/SOURCE.jpg) top left no-repeat fixed;
 }
 
 
@@ -355,7 +355,7 @@ p {
 
 
 #Counter-Strike-Global {
-  background: url(/Images/Global2.jpg) top left no-repeat fixed;
+  background: url(../Images/Global2.jpg) top left no-repeat fixed;
 
 }
 
@@ -411,7 +411,7 @@ p {
 }
 
 #Counter-Strike2 {
-  background: url(/Images/CSGO-BG2.jpg) top right no-repeat fixed;
+  background: url(../Images/CSGO-BG2.jpg) top right no-repeat fixed;
 
 
 }
@@ -432,10 +432,7 @@ p {
 
 /*#region aboutus*/
 
-#AboutUsP {
-  margin: auto;
-  padding: auto;
-}
+
 
 #aboutuspic {
   width: 50% !important;
